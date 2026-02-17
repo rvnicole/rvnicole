@@ -17,6 +17,14 @@ Me gusta escribir código limpio, bien estructurado y cuido los detalles en cada
 
 ---
 
+### Estadísticas
+
+[![Nicole's github stats](https://github-readme-stats-three-mu-76.vercel.app/api?username=rvnicole&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=rvnicole&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+---
+
 ### Contacto
 nicolerosasvallejo@hotmail.com
 https://www.linkedin.com/in/nicole-rosas-vallejo-6246b9372
