@@ -2,7 +2,11 @@
 
 ### Ing. Tecnologías de la Información
 
+---
+
 ### ​Stack tecnológico:
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,next,nodejs,expressjs,sequelize,mongoose,git,github,vscode&perline=13)](#)
+
 
 <!--
 **rvnicole/rvnicole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
