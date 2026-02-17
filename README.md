@@ -3,7 +3,7 @@
 ### Ing. Tecnologías de la Información
 
 ### <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="32" height="32">
-</picture>​ Stack tecnológico
+</picture>​Stack tecnológico
 
 <!--
 **rvnicole/rvnicole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
