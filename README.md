@@ -1,4 +1,4 @@
-# Nicole Rosas Vallejo ✨
+# Nicole Rosas Vallejo
 ### 🎓 Ing. Tecnologías de la Información
 
 ---
