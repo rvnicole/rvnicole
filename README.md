@@ -1,4 +1,4 @@
-# Nicole Rosas Vallejo <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
+# Nicole Rosas Vallejo <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="24" height="24">
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="20" height="20"> Ing. Tecnologías de la Información
 
 ---
