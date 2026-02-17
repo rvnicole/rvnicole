@@ -12,7 +12,7 @@ Me gusta escribir código limpio, bien estructurado y cuido los detalles en cada
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="16" height="16">⚡​Stack tecnológico
+### ⚡​Stack tecnológico
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,vite,next,nodejs,expressjs,sequelize,prisma,mongodb,github,vscode&perline=8)](#)
 
@@ -28,11 +28,11 @@ Me gusta escribir código limpio, bien estructurado y cuido los detalles en cada
 
 ### Contacto
 
-nicolerosasvallejo@hotmail.com
+📧 nicolerosasvallejo@hotmail.com
 
-https://www.linkedin.com/in/nicole-rosas-vallejo-6246b9372
+👤 https://www.linkedin.com/in/nicole-rosas-vallejo-6246b9372
 
-https://github.com/rvnicole
+😺 https://github.com/rvnicole
 
 
 <!--
