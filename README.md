@@ -19,7 +19,7 @@ Me gusta escribir código limpio, bien estructurado y cuido los detalles en cada
 
 ### Estadísticas
 
-![Nicole's GitHub stats](https://github-readme-stats-three-mu-76.vercel.app/api?username=rvnicole&show_icons=true&theme=onedark)
+![Nicole's GitHub stats](https://github-readme-stats-three-mu-76.vercel.app/api?username=rvnicole&show_icons=true&theme=gruvbox)
 
 [![Nicole's github stats](https://github-readme-stats-three-mu-76.vercel.app/api?username=rvnicole&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
 
