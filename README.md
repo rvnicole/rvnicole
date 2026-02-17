@@ -3,7 +3,7 @@
 
 ---
 
-### 🙆‍♀️ Perfil
+### 👩‍💻 Perfil
 
 Soy desarrolladora web y disfruto crear aplicaciones claras y funcionales usando **JavaScript** y **TypeScript**.
 Aunque mi fuerte es el frontend, también puedo trabajar en backend desarrollando APIs con Next.js.
@@ -18,7 +18,7 @@ Me gusta escribir código limpio, bien estructurado y cuido los detalles en cada
 
 ---
 
-### Estadísticas
+### 📈 Estadísticas
 
 [![Nicole's github stats](https://github-readme-stats-three-mu-76.vercel.app/api?username=rvnicole&show_icons=true&count_private=true&line_height=20&theme=radical)](#)
 
