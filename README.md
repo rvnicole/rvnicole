@@ -14,7 +14,7 @@
 
 ### 📫 Contacto
 nicolerosasvallejo@hotmail.com
-https://www.linkedin.com/in/nicole-rosas-vallejo-6246b9372
+(https://skillicons.dev/icons?i=linkedin&perline=1) https://www.linkedin.com/in/nicole-rosas-vallejo-6246b9372
 https://github.com/rvnicole
 
 
