@@ -29,7 +29,9 @@ Me gusta escribir código limpio, bien estructurado y cuido los detalles en cada
 ### 📬 Contacto
 
 📧 nicolerosasvallejo@hotmail.com
+
 👤 https://www.linkedin.com/in/nicole-rosas-vallejo-6246b9372
+
 😺 https://github.com/rvnicole
 
 
