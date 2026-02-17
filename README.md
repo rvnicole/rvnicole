@@ -1,5 +1,4 @@
-# **Nicole Rosas Vallejo <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32"></picture>**
-
+# Nicole Rosas Vallejo
 ### Ing. Tecnologías de la Información
 
 ---
@@ -8,7 +7,7 @@
 
 ---
 
-### ​Stack tecnológico:
+### ​Stack tecnológico
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,next,nodejs,expressjs,sequelize,mongodb,github,vscode&perline=13)](#)
 
 
