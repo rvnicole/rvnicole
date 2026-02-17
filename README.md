@@ -8,7 +8,7 @@
 ---
 
 ### ​Stack tecnológico
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,next,nodejs,expressjs,sequelize,prisma,mongodb,github,vscode&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,next,nodejs,expressjs,sequelize,prisma,mongodb,github,vscode&perline=10)](#)
 
 ---
 
