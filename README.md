@@ -6,7 +6,7 @@
 
 ### Perfil
 
--
+--
 
 ### ​Stack tecnológico:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,next,nodejs,expressjs,sequelize,mongodb,github,vscode&perline=13)](#)
