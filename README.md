@@ -7,7 +7,7 @@
 
 Soy desarrolladora web y disfruto crear aplicaciones claras y funcionales usando JavaScript y TypeScript.
 Aunque mi fuerte es el frontend, también puedo trabajar en backend desarrollando APIs con Next.js.
-Soy detallista y me esfuerzo por entregar soluciones limpias y de calidad.
+Soy detallista y me esfuerzo por entregar soluciones de calidad.
 
 ---
 
