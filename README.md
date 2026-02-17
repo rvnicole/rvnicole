@@ -26,7 +26,7 @@ Me gusta escribir código limpio, bien estructurado y cuido los detalles en cada
 
 ---
 
-### Contacto
+### 📬 Contacto
 
 📧 nicolerosasvallejo@hotmail.com
 
