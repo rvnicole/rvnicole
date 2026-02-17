@@ -14,7 +14,7 @@ Me gusta escribir código limpio, bien estructurado y cuido los detalles en cada
 
 ### ⚡​Stack tecnológico
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,vite,next,nodejs,expressjs,sequelize,prisma,mongodb,github,vscode&perline=8)](#)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,vite,next,nodejs,expressjs,sequelize,prisma,mongodb,github,vscode&perline=5)](#)
 
 ---
 
