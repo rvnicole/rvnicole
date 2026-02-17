@@ -8,7 +8,14 @@
 ---
 
 ### ​Stack tecnológico
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,next,nodejs,expressjs,sequelize,mongodb,github,vscode&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,next,nodejs,expressjs,sequelize,prisma,mongodb,github,vscode&perline=13)](#)
+
+---
+
+### 📫 Contacto
+nicolerosasvallejo@hotmail.com
+https://www.linkedin.com/in/nicole-rosas-vallejo-6246b9372
+https://github.com/rvnicole
 
 
 <!--
