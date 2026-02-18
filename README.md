@@ -22,7 +22,7 @@ Me gusta escribir código limpio, bien estructurado y cuido los detalles en cada
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
-| **💡Idea Blog** | Proyecto fullstack de blog con autenticación y gestión de publicaciones por categorías. | Frontend en React + TypeScript y backend en Node.js + Express, con autenticación JWT y persistencia de datos|
+| **💡Idea Blog** | Proyecto fullstack de blog con autenticación y gestión de publicaciones por categorías. | Frontend en React + TypeScript y backend en Node.js + Express, con autenticación JWT y Sequelize para la base de datos|
 | **🎬 Mis Pelis Favoritas** | Catálogo de películas con búsqueda, scroll infinito y gestión de favoritos persistida en localStorage. | React, TypeScript, Zustand, Zod, React Router DOM y Tailwind CSS |
 
 ---
