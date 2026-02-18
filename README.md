@@ -22,8 +22,6 @@ Me gusta escribir código limpio, bien estructurado y cuido los detalles en cada
 
 Desarrollando el frontend de una app de reporte ciudadano (en equipo):
 
-**Tecnologías:**
-
 🧠 Lenguaje: TypeScript
 ⚛️ Librería: React
 🧭 Enrutamiento: React Router DOM
@@ -36,6 +34,7 @@ Desarrollando el frontend de una app de reporte ciudadano (en equipo):
     - Zod (validación y esquemas)
 🎨 Estilos y UI: Tailwind CSS
 🌎 Mapas y geolocalización: Leaflet
+
 ---
 
 ### 📈 Estadísticas
