@@ -22,18 +22,18 @@ Me gusta escribir código limpio, bien estructurado y cuido los detalles en cada
 
 Desarrollando el frontend de una app de reporte ciudadano (en equipo):
 
-🧠 Lenguaje: TypeScript
-⚛️ Librería: React
-🧭 Enrutamiento: React Router DOM
-🔄 Manejo de estado y datos: 
-    - Zustand (estado global)
-    - React Query (estado del servidor / data fetching)
-📡 Peticiones HTTP: Axios
-📝 Formularios y validación:
-    - React Hook Form (manejo de formularios)
-    - Zod (validación y esquemas)
-🎨 Estilos y UI: Tailwind CSS
-🌎 Mapas y geolocalización: Leaflet
+- 🧠 **Lenguaje:** TypeScript
+- ⚛️ **Librería:** React
+- 🧭 **Enrutamiento:** React Router DOM
+- 🔄 **Manejo de estado y datos:**
+  - Zustand (estado global)
+  - React Query (estado del servidor)
+- 📡 **Peticiones HTTP:** Axios
+- 📝 **Formularios y validación:**
+  - React Hook Form
+  - Zod
+- 🎨 **Estilos y UI:** Tailwind CSS
+- 🌎 **Mapas y geolocalización:** Leaflet
 
 ---
 
