@@ -18,6 +18,19 @@ Me gusta escribir código limpio, bien estructurado y cuido los detalles en cada
 
 ---
 
+### 🚀 Actualmente
+
+Desarrollando el frontend de una app de reporte ciudadano (en equipo):
+
+**Tecnologías:**
+🧠 Lenguaje: TypeScript 
+⚛️ Librería: React
+🧭 Enrutamiento: React Router DOM
+🔄 Manejo de estado y datos: 
+    - Zustand (estado global)
+    - React Query (estado del servidor / data fetching)
+---
+
 ### 📈 Estadísticas
 
 [![Nicole's github stats](https://github-readme-stats-three-mu-76.vercel.app/api?username=rvnicole&show_icons=true&count_private=true&line_height=20&theme=radical)](#)
