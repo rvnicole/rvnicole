@@ -18,6 +18,14 @@ Me gusta escribir código limpio, bien estructurado y cuido los detalles en cada
 
 ---
 
+### 🗂️ Proyectos Destacados
+
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| **💬 TapTapChat** | Webapp de mensajería instantánea y notificaciones en tiempo real. | React, Node.js, Express, MongoDB, Socket.io, Zustand |
+
+---
+
 ### 🚀 Proyecto Actual
 
 Desarrollando el frontend de una app de reporte ciudadano (en equipo):
