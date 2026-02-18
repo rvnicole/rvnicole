@@ -25,13 +25,9 @@ Desarrollando el frontend de una app de reporte ciudadano (en equipo):
 - 🧠 **Lenguaje:** TypeScript
 - ⚛️ **Librería:** React
 - 🧭 **Enrutamiento:** React Router DOM
-- 🔄 **Manejo de estado y datos:**
-  - Zustand (estado global)
-  - React Query (estado del servidor)
+- 🔄 **Manejo de estado y datos:** Zustand (estado global) y React Query (estado del servidor)
 - 📡 **Peticiones HTTP:** Axios
-- 📝 **Formularios y validación:**
-  - React Hook Form
-  - Zod
+- 📝 **Formularios y validación:** React Hook Form y Zod
 - 🎨 **Estilos y UI:** Tailwind CSS
 - 🌎 **Mapas y geolocalización:** Leaflet
 
