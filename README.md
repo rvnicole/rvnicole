@@ -43,11 +43,9 @@ Desarrollando el frontend de una app de reporte ciudadano (en equipo):
 
 ### 📬 Contacto
 
-📧 nicolerosasvallejo@hotmail.com
-
-👤 https://www.linkedin.com/in/nicole-rosas-vallejo-6246b9372
-
-😺 https://github.com/rvnicole
+- 📧 **nicolerosasvallejo@hotmail.com**
+- 👤 **https://www.linkedin.com/in/nicole-rosas-vallejo-6246b9372**
+- 😺 **https://github.com/rvnicole**
 
 
 <!--
