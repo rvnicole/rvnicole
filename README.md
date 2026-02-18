@@ -22,7 +22,7 @@ Me gusta escribir código limpio, bien estructurado y cuido los detalles en cada
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
-| **🎬Mis Pelis Favoritas** | Catálogo de películas con búsqueda, scroll infinito y gestión de favoritos persistida en localStorage. | React, TypeScript, Zustand, Zod, React Router DOM y Tailwind CSS |
+| **🎬 Mis Pelis Favoritas** | Catálogo de películas con búsqueda, scroll infinito y gestión de favoritos persistida en localStorage. | React, TypeScript, Zustand, Zod, React Router DOM y Tailwind CSS |
 
 ---
 
