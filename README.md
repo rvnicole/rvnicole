@@ -18,7 +18,7 @@ Me gusta escribir código limpio, bien estructurado y cuido los detalles en cada
 
 ---
 
-### 🚀 Actualmente
+### 🚀 Proyecto Actual
 
 Desarrollando el frontend de una app de reporte ciudadano (en equipo):
 
