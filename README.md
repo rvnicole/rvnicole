@@ -24,9 +24,12 @@ Desarrollando el frontend de una app de reporte ciudadano (en equipo):
 
 **Tecnologías:**
 
-🧠 Lenguaje: TypeScript 
+🧠 Lenguaje: TypeScript
+
 ⚛️ Librería: React
+
 🧭 Enrutamiento: React Router DOM
+
 🔄 Manejo de estado y datos: 
     - Zustand (estado global)
     - React Query (estado del servidor / data fetching)
